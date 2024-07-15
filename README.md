@@ -12,8 +12,7 @@
   </a>
 </p>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/b8c49e1c-b2ef-4386-b5b8-c43c64227b35)
-">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/cd443cd6-2e47-4a40-b055-cc8da2b70eca">
 
 - 📫 How to reach me: **rakibulhassnratulkhan84@gmail.com**
 - ⚡ Fun fact: **All is Well**
