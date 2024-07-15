@@ -13,13 +13,15 @@
 </p>
 
 <img align="center" alt="coding" width="400" src="https://github.com/user-attachments/assets/cd443cd6-2e47-4a40-b055-cc8da2b70eca">
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞 I’m looking to collaborate on ...
-- 📫 How to reach me: **rakibulhassnratulkhan84@gmail.com**
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- 
+
+
+- 👀 I’m interested in robotics, IoT, and competitive programming.
+- 🌱 I’m currently learning Data structure
+- 💞 I’m looking to collaborate on robotics projects and hackathons.
+- 📫 How to reach me: rakibulhassnratulkhan84@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love exploring new tech gadgets and experimenting with them!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
