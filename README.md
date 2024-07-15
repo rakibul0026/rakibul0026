@@ -10,7 +10,8 @@
 - 📫 How to reach me: **rakibulhassnratulkhan84@gmail.com**
 - ⚡ Fun fact: **All is Well**
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/fa5c49a6-3e5f-4dcc-91b6-b9f96c1c6f5d">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/cd443cd6-2e47-4a40-b055-cc8da2b70eca)
+">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
