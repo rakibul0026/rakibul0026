@@ -1,14 +1,20 @@
 <h1 align="center">Hi 👋, I'm MD Rakibul Hassan</h1>
 <h3 align="center">I’m a Computer Science and Engineering student at CSTU</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibul0026&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul0026" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rakibul0026&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul0026" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibul0026" alt="rakibul0026" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rakibul0026" alt="rakibul0026" />
+  </a>
+</p>
 
-- 📫 How to reach me: **[rakibulhassnratulkhan84@gmail.com](mailto:rakibulhassnratulkhan84@gmail.com)**
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/cd443cd6-2e47-4a40-b055-cc8da2b70eca)">
+
+- 📫 How to reach me: **rakibulhassnratulkhan84@gmail.com**
 - ⚡ Fun fact: **All is Well**
-
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/cd443cd6-2e47-4a40-b055-cc8da2b70eca" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,7 +28,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="md rakibul hassan" height="30" width="40" />
   </a>
   <a href="https://codeforces.com/profile/md_rakibul_hassan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="md_rakibul_hassan" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="md rakibul hassan" height="30" width="40" />
   </a>
   <a href="https://www.hackerearth.com/rakibul-hassan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="rakibul hassan" height="30" width="40" />
@@ -42,8 +48,14 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibul0026&show_icons=true&locale=en&layout=compact" alt="rakibul0026" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibul0026&show_icons=true&locale=en&layout=compact" alt="rakibul0026" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibul0026&show_icons=true&locale=en" alt="rakibul0026" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibul0026&show_icons=true&locale=en" alt="rakibul0026" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibul0026&" alt="rakibul0026" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibul0026&" alt="rakibul0026" />
+</p>
