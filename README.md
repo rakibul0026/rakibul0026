@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD Rakibul Hassan</h1>
 <h3 align="center">I’m a Computer Science and Engineering student at CSTU</h3>
-<img align="right" alt="Welcome" width="400" src="![image](https://github.com/user-attachments/assets/7627d687-bbdd-499c-97d1-2ed8f0c89e38)
-">
 
-
-<p align="left"> 
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=rakibul0026&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul0026" /> 
 </p>
 
