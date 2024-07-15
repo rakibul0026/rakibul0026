@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD Rakibul Hassan</h1>
 <h3 align="center">I’m a Computer Science and Engineering student at CSTU</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/7627d687-bbdd-499c-97d1-2ed8f0c89e38)
+<img align="right" alt="Welcome" width="400" src="![image](https://github.com/user-attachments/assets/7627d687-bbdd-499c-97d1-2ed8f0c89e38)
 ">
 
 
