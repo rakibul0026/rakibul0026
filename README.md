@@ -13,10 +13,13 @@
 </p>
 
 <img align="center" alt="coding" width="400" src="https://github.com/user-attachments/assets/cd443cd6-2e47-4a40-b055-cc8da2b70eca">
-
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞 I’m looking to collaborate on ...
 - 📫 How to reach me: **rakibulhassnratulkhan84@gmail.com**
-- ⚡ Fun fact: **All is Well**
-- 
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
