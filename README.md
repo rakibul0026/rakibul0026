@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm MD Rakibul Hassan</h1>
 <h3 align="center">I’m a Computer Science and Engineering student at CSTU</h3>
+<img align="right" alt="Welcome" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/929296966656994174/4FB27DE025C123ACF90706D096FAD126F703B34C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rakibul0026&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul0026" /> 
+  <img src="https://komarev.com/ghpvc/?username=rakibul0026&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul0026" />
 </p>
 
-<p align="left"> 
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=rakibul0026" alt="rakibul0026" />
-  </a> 
+  </a>
 </p>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/cd443cd6-2e47-4a40-b055-cc8da2b70eca">
+<img align="right" alt="coding" width="400" src="your-image-link">
 
 - 📫 How to reach me: **rakibulhassnratulkhan84@gmail.com**
 - ⚡ Fun fact: **All is Well**
