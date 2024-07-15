@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm MD Rakibul Hassan</h1>
 <h3 align="center">I’m a Computer Science and Engineering student at CSTU</h3>
-<img align="center" alt="coding" width="1000" src="">
+<img align="center" alt="welcome" width="1000" src="https://github.com/user-attachments/assets/cd443cd6-2e47-4a40-b055-cc8da2b70eca">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibul0026&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul0026" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=rakibul0026&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul0026" /> 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibul0026" alt="rakibul0026" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rakibul0026" alt="rakibul0026" />
+  </a> 
+</p>
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/cd443cd6-2e47-4a40-b055-cc8da2b70eca">
 
