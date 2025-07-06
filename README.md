@@ -15,8 +15,8 @@
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/cd443cd6-2e47-4a40-b055-cc8da2b70eca">
 
 - 👀 I’m interested in robotics, IoT, and competitive programming.  
-- 🌱 I’m currently learning Data Structure.  
-- 💞 I’m looking to collaborate on robotics projects and hackathons.  
+- 🌱 I’m currently learning Algorithm design and analysis  
+- 💞 I’m looking to collaborate on robotics projects and IOT based project  
 - 📫 How to reach me: **rakibulhassnratulkhan84@gmail.com**  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love exploring new tech gadgets and experimenting with them!  
