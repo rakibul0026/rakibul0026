@@ -83,6 +83,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibul0026&show_icons=true&locale=en" alt="rakibul0026" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibul0026&" alt="rakibul0026" /></p>
+## 🏅 Competitive Programming
+
+[![Codeforces Profile](https://img.shields.io/badge/Codeforces-MD__Rakibul__hassan-orange?style=flat&logo=codeforces)](https://codeforces.com/profile/MD_Rakibul_hassan)
+
+<img src="./competitive_stats.png" alt="MD Rakibul Hassan's Competitive Programming Stats" width="100%" />
 
 
 ## 🎓 Education
