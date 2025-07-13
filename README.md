@@ -83,15 +83,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibul0026&show_icons=true&locale=en" alt="rakibul0026" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibul0026&" alt="rakibul0026" /></p>
-## 🏅 Competitive Programming
-
-<!-- Codeforces Stats Section -->
-<!-- You can link to the generated file or copy its content -->
-
-<!-- Option 1: Link to file -->
-[See my Codeforces stats here](./CODEFORCES_STATS.md)
-
-<!-- Option 2: Copy content manually or automate the copy -->
 
 
 ## 🎓 Education
