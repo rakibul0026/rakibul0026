@@ -93,13 +93,14 @@
 
 ---
 
+---
+
 ## 🏅 Competitive Programming
 
 [![Codeforces Profile](https://img.shields.io/badge/Codeforces-MD__Rakibul__hassan-orange?style=flat&logo=codeforces)](https://codeforces.com/profile/MD_Rakibul_hassan)
 
 <img src="./competitive_stats.png" alt="Competitive Programming Stats" width="100%" />
 
----
 
 ## 🎓 Education
 
@@ -111,13 +112,4 @@
 
 ---
 
-## 📊 GitHub Language Usage
 
-| Language      | Percentage |
-|---------------|------------|
-| PHP           | 42.13%     |
-| JavaScript    | 27.71%     |
-| HTML          | 14.66%     |
-| C++           | 6.94%      |
-| Java          | 4.42%      |
-| CSS           | 4.14%      |
