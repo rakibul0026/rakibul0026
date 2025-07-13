@@ -85,10 +85,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibul0026&" alt="rakibul0026" /></p>
 ## 🏅 Competitive Programming
 
-[![Codeforces Rating](https://img.shields.io/badge/Codeforces-Handle-orange?style=flat&logo=codeforces)](https://codeforces.com/profile/Handle)
+[![Codeforces Profile](https://img.shields.io/badge/Codeforces-MD__Rakibul__hassan-orange?style=flat&logo=codeforces)](https://codeforces.com/profile/MD_Rakibul_hassan)  
+**Current Rating:** [Check here](https://codeforces.com/profile/MD_Rakibul_hassan)
 
-
-![MD Rakibul Hassan's Competitive Programming Stats](./competitive_stats.png)
 
 
 ## 🎓 Education
