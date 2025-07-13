@@ -87,7 +87,7 @@
 
 [![Codeforces Profile](https://img.shields.io/badge/Codeforces-MD__Rakibul__hassan-orange?style=flat&logo=codeforces)](https://codeforces.com/profile/MD_Rakibul_hassan)
 
-<img src="./competitive_stats.png" alt="MD Rakibul Hassan's Competitive Programming Stats" width="100%" />
+![MD Rakibul Hassan's Competitive Programming Stats](./competitive_stats.png)
 
 
 ## 🎓 Education
