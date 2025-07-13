@@ -83,3 +83,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibul0026&show_icons=true&locale=en" alt="rakibul0026" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibul0026&" alt="rakibul0026" /></p>
+
+
+## 🎓 Education
+
+| Degree                          | Institution                                      | Year        |
+|----------------------------------|--------------------------------------------------|-------------|
+| Bachelor's in Computer Science   | Chandpur Science and Technology University       | In progress |
+| Higher Secondary                 | Ibn Taimiya School and College                   | 2021        |
+| Secondary                        | Ibn Taimiya School and College                   | 2019        |
+
