@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD Rakibul Hassan</h1>
 <h3 align="center">I’m a Computer Science and Engineering student at CSTU</h3>
+
 <img align="center" alt="Welcome" width="900" src="https://steamuserimages-a.akamaihd.net/ugc/929296966656994174/4FB27DE025C123ACF90706D096FAD126F703B34C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <p align="left">
@@ -16,10 +17,12 @@
 
 - 👀 I’m interested in robotics, IoT, and competitive programming.  
 - 🌱 I’m currently learning Algorithm design and analysis  
-- 💞 I’m looking to collaborate on robotics projects and IOT based project  
+- 💞 I’m looking to collaborate on robotics projects and IoT-based projects  
 - 📫 How to reach me: **rakibulhassnratulkhan84@gmail.com**  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love exploring new tech gadgets and experimenting with them!  
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,6 +42,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="rakibul hassan" height="30" width="40" />
   </a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -66,7 +71,6 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
   </a>
- </a>
   <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/>
   </a>
@@ -75,6 +79,10 @@
   </a>
 </p>
 
+---
+
+## 📈 GitHub Stats
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibul0026&show_icons=true&locale=en&layout=compact" alt="rakibul0026" />
 </p>
@@ -82,3 +90,34 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibul0026&show_icons=true&locale=en" alt="rakibul0026" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibul0026&" alt="rakibul0026" /></p>
+
+---
+
+## 🏅 Competitive Programming
+
+[![Codeforces Profile](https://img.shields.io/badge/Codeforces-MD__Rakibul__hassan-orange?style=flat&logo=codeforces)](https://codeforces.com/profile/MD_Rakibul_hassan)
+
+<img src="./competitive_stats.png" alt="Competitive Programming Stats" width="100%" />
+
+---
+
+## 🎓 Education
+
+| Degree                          | Institution                                      | Year        |
+|----------------------------------|--------------------------------------------------|-------------|
+| Bachelor's in Computer Science   | Chandpur Science and Technology University       | In progress |
+| Higher Secondary                 | Ibn Taimiya School and  College                     | 2021        |
+| Secondary                        | Ibn Taimiya School and  College                      | 2019        |
+
+---
+
+## 📊 GitHub Language Usage
+
+| Language      | Percentage |
+|---------------|------------|
+| PHP           | 42.13%     |
+| JavaScript    | 27.71%     |
+| HTML          | 14.66%     |
+| C++           | 6.94%      |
+| Java          | 4.42%      |
+| CSS           | 4.14%      |
